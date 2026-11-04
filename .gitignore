@@ -7,7 +7,19 @@ __pycache__/
 env/
 venv/
 
-# Temporários de áudio ou dados
+# Temporários de áudio, vídeos pesados e pastas de mídia local
 temp_*
 *.json3
 *.mp3
+*.mp4
+*.png
+*.jpg
+Videos/
+videos_*/
+frames_*/
+hook_frames*/
+keyframes*/
+arquivo_*/
+analise_video_youtube/
+recreation_3d/
+samples_progression/
